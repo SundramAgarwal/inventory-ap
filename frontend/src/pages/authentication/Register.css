@@ -1,0 +1,86 @@
+/* .full{
+    display: flex;
+}
+.box1{
+    height: 100vh;
+    width: 100vw;
+    background-color: #030b6b;
+}
+
+.register-box {
+    height: 600px;
+    width: 470px;
+    background-color: #E4E6F7;
+    margin: 160px auto;
+    border: 10px solid #4A58B2;
+    border-radius: 50px;
+  }
+.register-heading{
+    text-align: center;
+    font-size: 35px;
+    margin: 30px 0 0 0 ;
+}
+#input1{
+    width: 367px;
+    margin: 50px 0 0 40px;
+    border-radius: 10px;
+}
+#input2{
+    width: 367px;
+    margin: 20px 0 0 40px;
+    border-radius: 10px;
+}
+#input3{
+    margin: 20px 0 0 40px;
+    width: 367px;
+    border-radius: 10px;
+}
+#input4{
+    margin: 20px 0 0 40px;
+    width: 367px;
+    border-radius: 10px;
+}
+#register-btn1 {
+    background-color: #4A58B2;
+    margin: 47px 0 0 140px;
+    border-color: #4A58B2;
+    border-radius: 10px;
+  }
+.register-logo{
+    font-size: 60px;
+    color: whitesmoke;
+    float: right;
+    padding-right: 100px;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 2.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: .375rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  }
+
+.btn {
+    --bs-btn-padding-x: 4rem;
+    --bs-btn-padding-y: 1rem;
+    --bs-btn-font-family: ;
+    --bs-btn-font-size: 2rem;
+    --bs-btn-font-weight: 400;
+    --bs-btn-line-height: 1.5;
+  } */
+
+
+  /* .box2{
+    height: 100vh;
+    width: 100vw;
+    background-color: #4A58B2;
+} */
