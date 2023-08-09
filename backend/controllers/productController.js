@@ -144,7 +144,7 @@ const updateProduct = asyncHandler(async(req,res)=> {
             quantity,
             price,
             description,
-            image: Object.keys(fileData).length === 0 ?  product?.image : fileData,
+            image: Object.keys(fileData).length === 0 ?  (product ? product.image : undefined) : fileData,
         },
         {
             new: true,
