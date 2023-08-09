@@ -18,7 +18,7 @@ app.use(cookieParser());
 app.use(express.urlencoded({extended: false}));
 app.use(bodyParser.json());
 app.use(cors({
-    origin: ["http://localhost:3000","http://inventory-ap.vercel.app"],  //, 
+    origin: ["http://localhost:3000","http://inventory-app.vercel.app"],  //, 
     credentials: true
 })); //cors helps us to resolve conflict when we are
 // making a request from the backend through the frontend

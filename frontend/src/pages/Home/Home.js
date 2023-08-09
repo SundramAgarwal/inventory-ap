@@ -59,9 +59,9 @@ const Home = () => {
                 </div> 
             </div> 
 
-            <div className='hero-image'>
+            <div className='hero-image' >
                 {/* <img src={heroImg}  alt = "IKGPTU HR Management"></img> */}
-                <img src={heroImg} alt="Inventory" />
+                <img src='https://www.akgvg.com/blog/wp-content/uploads/2021/06/Inventory-Management.jpg' alt="Inventory" style={{ width: '600px', height: '400px' }}  />
             </div>
         </section>
     </div>
